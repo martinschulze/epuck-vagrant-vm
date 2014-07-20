@@ -1,0 +1,15 @@
+[submodule "modules/xfce"]
+	path = modules/xfce
+	url = https://github.com/martinschulze/puppet-xfce.git
+[submodule "modules/eclipse"]
+	path = modules/eclipse
+	url = https://github.com/martinschulze/puppet-eclipse.git
+[submodule "modules/locale"]
+	path = modules/locale
+	url = https://github.com/martinschulze/puppet-locale.git
+[submodule "modules/timezone"]
+	path = modules/timezone
+	url = https://github.com/martinschulze/puppet-timezone.git
+[submodule "modules/bininstall"]
+	path = modules/bininstall
+	url = https://github.com/martinschulze/puppet-bininstall.git

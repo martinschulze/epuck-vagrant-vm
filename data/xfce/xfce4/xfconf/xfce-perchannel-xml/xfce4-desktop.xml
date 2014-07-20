@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-desktop" version="1.0">
+  <property name="backdrop" type="empty">
+    <property name="screen0" type="empty">
+      <property name="monitor0" type="empty">
+        <property name="image-path" type="string" value="/usr/share/backgrounds/xfce/xfce-transparent.png"/>
+        <property name="last-image" type="string" value="/home/vagrant/100366-cliwall_grey.png"/>
+        <property name="last-single-image" type="string" value="/usr/share/backgrounds/xfce/xfce-transparent.png"/>
+        <property name="image-style" type="int" value="0"/>
+        <property name="color1" type="array">
+          <value type="uint" value="24020"/>
+          <value type="uint" value="0"/>
+          <value type="uint" value="0"/>
+          <value type="uint" value="65535"/>
+        </property>
+        <property name="brightness" type="int" value="-30"/>
+        <property name="last-image-list" type="string" value="/home/vagrant/.config/xfce4/desktop/backdrop.list"/>
+        <property name="saturation" type="double" value="0.700000"/>
+        <property name="color-style" type="int" value="2"/>
+        <property name="color2" type="array">
+          <value type="uint" value="0"/>
+          <value type="uint" value="9479"/>
+          <value type="uint" value="21876"/>
+          <value type="uint" value="65535"/>
+        </property>
+      </property>
+    </property>
+  </property>
+  <property name="desktop-icons" type="empty">
+    <property name="icon-size" type="uint" value="32"/>
+  </property>
+</channel>

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Eclipse
+Comment=Eclipse for doing Xtext DSL things
+NoDisplay=false
+Exec=/opt/eclipse/eclipse
+Terminal=false
+Type=Application
+Icon=/opt/eclipse/icon.xpm
+Categories=Development;IDE
+Categories=GNOME;Application;Development;
+StartupNotify=true
+
