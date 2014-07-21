@@ -5,6 +5,7 @@ for the e-puck educational robot.
 
 # Authors #
 Martin Schulze
+
 Darius Kellermann
 
 # License #
@@ -22,10 +23,19 @@ limitations under the License.
 
 # Installation #
 
-* Install git, VirtualBox and vagrant.
-* Check out this repository.
-* Init and update the git submodules.
-* Fire up VM with vagrant.
+Install git, VirtualBox and vagrant.
+
+Check out this repository.
+
+    git clone https://github.com/martinschulze/epuck-vagrant-vm.git
+
+Init and update the git submodules.
+
+    git submodule update --init --recursive
+
+Fire up VM with vagrant.
+
+    vagrant up
 
 # Contact #
 martin.s.schulze@gmail.com
