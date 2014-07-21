@@ -13,3 +13,6 @@
 [submodule "modules/bininstall"]
 	path = modules/bininstall
 	url = https://github.com/martinschulze/puppet-bininstall.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
